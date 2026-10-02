@@ -1,0 +1,23 @@
+Exercise guide: CA
+The goal of this activity is to familiarize everyone with CA simulations, using NetLogo
+(http://ccl.northwestern.edu/netlogo/download.shtml). There are many models already
+included in the NetLogo installation. For additional information, see for instance the following
+link: NetLogo Library of models: http://modelingcommons.org/
+1) Use NetLogo to simulate two chosen 1D Cellular Automata (CA), in two different Wolfram
+classes. Explain initial conditions and CA rules and evolution. Plot and comment your
+results.
+2) Run two different 2D or 3D CA models in NetLogo. Pick models from the library in your
+own installation (directory Sample Models). or from Modelling Commons, which runs most
+models on their web server. For the server, note that NetLogo is not backwards compatible,
+and you should pick relatively recent models.
+a) Report CA rules for the chosen models.
+b) Before running the model for the pre-set conditions: what kind of results do you expect?
+c) Enlarge your “universe”. Note that the default boundary conditions in NetLogo are periodic
+boundary conditions. Is the change leading to new behavior?
+d) Most models require setting a random initial condition. Start with different random
+instances. Do you notice different qualitative results? Explain.
+e) NetLogo uses its own programming language. Check the code for the examples you
+picked. For one of the chosen models, change the code, for instance modifying one of the
+rules and report what happens when you run with that new set-up.
+
+
